@@ -1,2 +1,2 @@
-# digital_signal_processing_mini_projects
-Digital Signal Processing Mini Projects
+# digital_signal_processing_couse_projects_assignments
+Digital Signal Processing Course Project Assignment
